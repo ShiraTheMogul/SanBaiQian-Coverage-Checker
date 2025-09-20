@@ -15,6 +15,7 @@ There is support for Traditional and Simplified Chinese, and in case of a mixed 
 Technically, the inventories in this program can be modified simply through modifying what is within the files. Therefore, I encourage users to do this! Add characters you know and don't know to this program.
 
 ![image info](./media/chunqiu_demo.png)
+
 When used, the program will output:
 1) Stats of comprehensibility (Han-character coverage)
 2) List of characters not present (unique OOV list)
