@@ -1,0 +1,45 @@
+=== Inventories Loaded ===
+- inventory_traditional: 1,476 characters
+
+=== Results for [inventory_traditional] ===
+Total counted chars: 16,745
+Known (in-inventory): 14,087
+Unknown (OOV): 2,658
+Coverage: 84.13%
+
+List of characters not present (unique OOV, freq-desc):
+卒邾葬奔莒殺侵杞癸圍亥巳庚遂壬午聘乙酉丑朔戊未戌敗卯寅救鄙弒雩薨鞅夷豹郊複鄆忌鄫蔑郄僑嬰逆乾崩災螽僖沉築襄遇還防彄乞匄台婼悼昭疾速郕震偃喪庄牲虎郯佗固寢捷燮玃盾突罃罕羯蒐買鬍黑免冰咎咺姒媵孛幣戍棘款洮潰犨狩瓦繹萊蠆輒郛隕鼠鼷介共吁唁囿征括放曼望杵棄殖淮澶牢犁猛瑕瑗穿糾縠缺翬聵臼般蒞螟讙追逃郈鄄酅錫雹頃髡鹿乘亳剽厚原又吾告墮奐完宛室屋幽忽憖旱札柤桃棐死汶清渾溺漷潞燬瑣畀留祊禘禚箕籥緍罷脤葵蒢薳虔蠻衎詣誘豎賵贏躒輿送郚郳鄑鄟錡鍼閱闡降陘雉魋魴麋黶龜互享仍佞佹侖俘候偪側傒僚函剛勺區卷厘參含哭嗇塗壞寤展岩岸崇帛廄廩廬彪復忄快恢折拏拔挾斗旅昊曆末朾杏柏柔栗桷椒榆榭槜樗檉櫟欑殲殽毗沂泓洙洩浚涖渝湨濤濫濼焚煬牂牙牡牽犖狂狸獳獵甗疆痤盂盪眚祥祲禦禾竊筐粟糴紇縶繻置羈肝肯肱肸臀舞芻苕荼菅菑菽葭蓼蘧蚡蛇蜚蜮蝝蟲術衙裂襚襲視覿貉貫賜賻趡躋軫遏遝邲邿郢郪郱郿鄀鄅鄖鄣鄬鄵鄶鄸酋鐵間閽隴電靖鞍頑頵館騑鱄鳩鴝鵒鷁鹵麇麟鼬齧
+
+Top 15 unknown characters (high frequency):
+卒	180	U+5352	CJK UNIFIED IDEOGRAPH-5352
+邾	141	U+90BE	CJK UNIFIED IDEOGRAPH-90BE
+葬	124	U+846C	CJK UNIFIED IDEOGRAPH-846C
+奔	85	U+5954	CJK UNIFIED IDEOGRAPH-5954
+莒	80	U+8392	CJK UNIFIED IDEOGRAPH-8392
+殺	68	U+6BBA	CJK UNIFIED IDEOGRAPH-6BBA
+侵	63	U+4FB5	CJK UNIFIED IDEOGRAPH-4FB5
+杞	59	U+675E	CJK UNIFIED IDEOGRAPH-675E
+癸	50	U+7678	CJK UNIFIED IDEOGRAPH-7678
+圍	49	U+570D	CJK UNIFIED IDEOGRAPH-570D
+亥	47	U+4EA5	CJK UNIFIED IDEOGRAPH-4EA5
+巳	45	U+5DF3	CJK UNIFIED IDEOGRAPH-5DF3
+庚	42	U+5E9A	CJK UNIFIED IDEOGRAPH-5E9A
+遂	42	U+9042	CJK UNIFIED IDEOGRAPH-9042
+壬	41	U+58EC	CJK UNIFIED IDEOGRAPH-58EC
+
+Bottom 15 unknown characters (low frequency):
+互	1	U+4E92	CJK UNIFIED IDEOGRAPH-4E92
+享	1	U+4EAB	CJK UNIFIED IDEOGRAPH-4EAB
+仍	1	U+4ECD	CJK UNIFIED IDEOGRAPH-4ECD
+佞	1	U+4F5E	CJK UNIFIED IDEOGRAPH-4F5E
+佹	1	U+4F79	CJK UNIFIED IDEOGRAPH-4F79
+侖	1	U+4F96	CJK UNIFIED IDEOGRAPH-4F96
+俘	1	U+4FD8	CJK UNIFIED IDEOGRAPH-4FD8
+候	1	U+5019	CJK UNIFIED IDEOGRAPH-5019
+偪	1	U+506A	CJK UNIFIED IDEOGRAPH-506A
+側	1	U+5074	CJK UNIFIED IDEOGRAPH-5074
+傒	1	U+5092	CJK UNIFIED IDEOGRAPH-5092
+僚	1	U+50DA	CJK UNIFIED IDEOGRAPH-50DA
+函	1	U+51FD	CJK UNIFIED IDEOGRAPH-51FD
+剛	1	U+525B	CJK UNIFIED IDEOGRAPH-525B
+勺	1	U+52FA	CJK UNIFIED IDEOGRAPH-52FA
